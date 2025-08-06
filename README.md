@@ -40,7 +40,7 @@ A modern decentralized application (DApp) built with React, Vite, Solidity, Ethe
 
 ## 🙋‍♂️ Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/raghav-gupta-381690284/))  
-- [Twitter](https://twitter.com/codesraghav_)
+- [LinkedIn](https://www.linkedin.com/in/raghav-gupta-381690284/)
+- [Twitter](https://twitter.com/codesraghav)
 
 
